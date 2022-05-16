@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏐 每个热爱排球的人](README.md)
+* [🏐 给每个热爱排球的人](README.md)
 
 ## 前言
 
