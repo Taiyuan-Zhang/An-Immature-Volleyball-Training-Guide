@@ -1,32 +1,19 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+cover: ../.gitbook/assets/wallhaven-1jppm3_2560x1080.png
+coverY: 177.9959100204499
 ---
 
 # 梦的开始
 
-## Our Vision
+## 遇见南开激扬
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+虽然在初中有过一个学期接触了排球，甚至打了比赛，但实在太过基础，除了垫球和发球其他完全不了解，回想起来当时校内比赛打的还是大转哈哈哈，也算是初生牛犊不怕虎了吧。
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+再后来真正开始迷恋上这项运动，是大一下学期时，教务系统“剩”给我的体育课中有排球初级，“我还有挺不错的垫球基础，选吧，应该会很轻松”，抱着这样的想法我还将好兄弟王晓航拉下了水哈哈哈，踏上了这条”不归路“。
 
-## Our Values
+在邱明强老师的排初课上，从垫球、传球到扣球、发球，每项技术都不简单，重复再重复练习是唯一通过考试打赢比赛的选择。跟王晓航频繁在外场练习让我俩接触到了计网男排院队，上完课在馆里观摩校长杯比赛，打完初级组比赛观摩激扬组比赛，加入激扬排球津南部开始外场打野球，排球梦就已经悄悄在我心中生根发芽了。
 
-{% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
-{% endhint %}
 
-### Be Compassionate
-
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
-
-### Be Mindful
-
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
 
 ### Research First
 
